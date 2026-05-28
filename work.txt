@@ -1,8 +1,12 @@
 hello fried
 alosh .com
+<<<<<<< HEAD
 ahmad
 2
 2
 2
 2
 2
+=======
+new update the loc
+>>>>>>> LOC2
