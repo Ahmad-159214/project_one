@@ -2,11 +2,7 @@ hello fried
 alosh .com
 <<<<<<< HEAD
 ahmad
-2
-2
-2
-2
-2
+Ahmad Alosh NEW Update
 =======
 new update the loc
 >>>>>>> LOC2
