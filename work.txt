@@ -11,3 +11,5 @@ ahmad
 new update the loc
 >>>>>>> LOC2
 hi man it is one file update and push github
+
+update new and upload 
