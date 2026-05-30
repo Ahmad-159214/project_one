@@ -3,7 +3,7 @@ name: First Task1
 on: 
   push:
     branches:
-      - main
+      - master
 
   jobs:
    example-job:
