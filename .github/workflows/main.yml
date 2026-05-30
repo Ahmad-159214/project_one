@@ -1,4 +1,4 @@
-name: First Task1
+name: First Workflow
 
 on: 
   push:
@@ -6,8 +6,8 @@ on:
       - master
 
   jobs:
-   example-job:
-     runs-on: ubuntu-latest
+    example-job:
+      runs-on: ubuntu-latest
 
      steps:
        - name: print a welcome message
