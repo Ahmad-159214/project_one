@@ -1,0 +1,15 @@
+name: First Task1
+
+on: 
+  push:
+    branches:
+      - main
+
+  jobs:
+   example-job:
+     runs-on: ubuntu-latest
+
+     steps:
+       - name: print a welcome message
+         run: echo "welcome to our firsr github actions workflow"
+ 
