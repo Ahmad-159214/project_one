@@ -12,4 +12,10 @@
       steps:
        - name: print a welcome message
          run: echo "welcome to our firsr github actions workflow"
- 
+
+       - name: Checkout repository
+         uses: actions/checkout@v6.0.2
+
+       - name: List repo
+         run: ls -la
+         
