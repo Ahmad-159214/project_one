@@ -16,3 +16,6 @@ two file now
 what is the file now update to git no local
 new line git no local
 iahmad
+no edit now
+`:wq
+
