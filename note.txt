@@ -1,3 +1,7 @@
 hello man
 ahmad very Good work today
+<<<<<<< Updated upstream
 hi it is new update stash
+=======
+hi
+>>>>>>> Stashed changes
